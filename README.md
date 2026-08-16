@@ -1,4 +1,5 @@
 # Smart-Vote
+Secure vote -  the fingerprint of democracy
 
 > A secure and transparent digital voting system designed to ensure fair, accurate, and efficient elections.
 
@@ -145,7 +146,7 @@ npm run preview
 
 **Developed by Team Neo**
 
-**Tagline:**
+**Secure vote - the fingerprint of democracy **
 
 *"Building trust through technology."*
 
