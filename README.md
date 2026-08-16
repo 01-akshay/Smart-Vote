@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BioVote AI — React Prototype
 
 A college-demo election control room + EVM booth built with **React + Vite**.
@@ -150,3 +151,6 @@ that next phase.
 - Resetting voters/parties/votes only affects an election that hasn't
   finished yet — `COMPLETED` / `LOCKED` / `ARCHIVED` elections are permanent
   history and are never touched by the reset button.
+=======
+# Smart-Vote
+>>>>>>> c3b2e45d74147e9522983d04322857c23b756e4f
