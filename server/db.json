@@ -1,0 +1,657 @@
+{
+  "voters": [],
+  "elections": [
+    {
+      "id": "EL-F8NLBE",
+      "name": "General Election 2026 — Demo Constituency",
+      "description": "College demonstration election",
+      "constituency": "Demo Constituency 1",
+      "status": "DRAFT",
+      "startTime": null,
+      "endTime": null,
+      "finalRegisteredCount": 0,
+      "parties": [
+        {
+          "id": "P-H92O2A",
+          "name": "NOTA",
+          "symbol": "—",
+          "color": "#5C6579"
+        }
+      ],
+      "hasVoted": {
+        "V-6LDYCY": false,
+        "V-8EK6QK": false,
+        "V-8MFK1E": false,
+        "V-OV1KQI": false,
+        "V-JM0FKM": false,
+        "V-I8EPAP": false
+      },
+      "voteLog": []
+    },
+    {
+      "id": "EL-BLWJED",
+      "name": "panchyat",
+      "description": "",
+      "constituency": "Demo Constituency",
+      "status": "COMPLETED",
+      "startTime": "15/08/2026, 10:45:12",
+      "endTime": "15/08/2026, 10:46:08",
+      "finalRegisteredCount": 2,
+      "parties": [
+        {
+          "id": "P-VEF5BW",
+          "name": "cjp",
+          "symbol": "CJ",
+          "color": "#4FD1C5"
+        },
+        {
+          "id": "P-SNY66C",
+          "name": "bjp",
+          "symbol": "BJ",
+          "color": "#4FD1C5"
+        },
+        {
+          "id": "P-2GIEHO",
+          "name": "NOTA",
+          "symbol": "—",
+          "color": "#5C6579"
+        }
+      ],
+      "hasVoted": {
+        "V-6LDYCY": true,
+        "V-8EK6QK": true,
+        "V-8MFK1E": false,
+        "V-OV1KQI": false,
+        "V-JM0FKM": false,
+        "V-I8EPAP": false
+      },
+      "voteLog": [
+        {
+          "partyId": "P-SNY66C",
+          "ts": "15/08/2026, 10:45:25",
+          "txRef": "TXMSTX9XY53744"
+        },
+        {
+          "partyId": "P-SNY66C",
+          "ts": "15/08/2026, 10:45:49",
+          "txRef": "TXMSTXAGBQJNSA"
+        }
+      ]
+    },
+    {
+      "id": "EL-EZEYNF",
+      "name": "panchyat",
+      "description": "",
+      "constituency": "Demo Constituency",
+      "status": "DRAFT",
+      "startTime": null,
+      "endTime": null,
+      "finalRegisteredCount": 0,
+      "parties": [
+        {
+          "id": "P-C93KUA",
+          "name": "NOTA",
+          "symbol": "—",
+          "color": "#5C6579"
+        }
+      ],
+      "hasVoted": {
+        "V-8MFK1E": false,
+        "V-OV1KQI": false,
+        "V-JM0FKM": false,
+        "V-I8EPAP": false
+      },
+      "voteLog": []
+    },
+    {
+      "id": "EL-XND241",
+      "name": "Panchyat",
+      "description": "Secure vote -  the fingerprint of democracy",
+      "constituency": "Demo Constituency",
+      "status": "DRAFT",
+      "startTime": null,
+      "endTime": null,
+      "finalRegisteredCount": 0,
+      "parties": [
+        {
+          "id": "P-CBCOTT",
+          "name": "cng",
+          "symbol": "CN",
+          "color": "#0f4b07"
+        },
+        {
+          "id": "P-0RVIAG",
+          "name": "aap",
+          "symbol": "AA",
+          "color": "#4FD1C5"
+        },
+        {
+          "id": "P-XNOFER",
+          "name": "NOTA",
+          "symbol": "—",
+          "color": "#5C6579"
+        }
+      ],
+      "hasVoted": {
+        "V-8MFK1E": false,
+        "V-OV1KQI": false,
+        "V-JM0FKM": false,
+        "V-I8EPAP": false
+      },
+      "voteLog": []
+    },
+    {
+      "id": "EL-3JPHG9",
+      "name": "mla",
+      "description": "",
+      "constituency": "Demo Constituency",
+      "status": "COMPLETED",
+      "startTime": "16/08/2026, 08:12:19",
+      "endTime": "16/08/2026, 08:14:21",
+      "finalRegisteredCount": 4,
+      "parties": [
+        {
+          "id": "P-KS7OW6",
+          "name": "cng",
+          "symbol": "CN",
+          "color": "#4FD1C5"
+        },
+        {
+          "id": "P-3SDCVM",
+          "name": "aap",
+          "symbol": "AA",
+          "color": "#4FD1C5"
+        },
+        {
+          "id": "P-3FNKFQ",
+          "name": "NOTA",
+          "symbol": "—",
+          "color": "#5C6579"
+        }
+      ],
+      "hasVoted": {
+        "V-8MFK1E": true,
+        "V-OV1KQI": true,
+        "V-I8EPAP": true,
+        "V-JM0FKM": true
+      },
+      "voteLog": [
+        {
+          "partyId": "P-3SDCVM",
+          "ts": "16/08/2026, 08:12:39",
+          "txRef": "TXMSV79BWMAK9Z"
+        },
+        {
+          "partyId": "P-KS7OW6",
+          "ts": "16/08/2026, 08:12:55",
+          "txRef": "TXMSV79O9R23QO"
+        },
+        {
+          "partyId": "P-3SDCVM",
+          "ts": "16/08/2026, 08:13:10",
+          "txRef": "TXMSV79ZR42BE8"
+        },
+        {
+          "partyId": "P-3FNKFQ",
+          "ts": "16/08/2026, 08:13:42",
+          "txRef": "TXMSV7AORQEE8J"
+        }
+      ]
+    },
+    {
+      "id": "EL-SFXYA6",
+      "name": "mla",
+      "description": "",
+      "constituency": "Demo Constituency",
+      "status": "DRAFT",
+      "startTime": null,
+      "endTime": null,
+      "finalRegisteredCount": 0,
+      "parties": [
+        {
+          "id": "P-TBKRXB",
+          "name": "NOTA",
+          "symbol": "—",
+          "color": "#5C6579"
+        }
+      ],
+      "hasVoted": {},
+      "voteLog": []
+    }
+  ],
+  "currentElectionId": "EL-SFXYA6",
+  "fraudEvents": [
+    {
+      "ts": "16/08/2026, 08:13:51",
+      "reason": "Duplicate vote attempt (voter already voted this election)",
+      "riskScore": "LOW",
+      "hiddenVoterId": "123",
+      "attempt": 1,
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:13:27",
+      "reason": "Unregistered/unrecognized Voter ID presented at EVM",
+      "riskScore": "LOW",
+      "evmId": "EVM-01"
+    }
+  ],
+  "auditLog": [
+    {
+      "ts": "16/08/2026, 08:14:46",
+      "action": "Reset voters/parties (finished elections kept as history)",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:14:46",
+      "action": "Created new election \"mla\" (continuing after reset)",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-SFXYA6"
+    },
+    {
+      "ts": "16/08/2026, 08:14:21",
+      "action": "Stopped election",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:14:06",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "16/08/2026, 08:13:42",
+      "action": "Vote cast",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9",
+      "txRef": "TXMSV7AORQEE8J"
+    },
+    {
+      "ts": "16/08/2026, 08:13:10",
+      "action": "Vote cast",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9",
+      "txRef": "TXMSV79ZR42BE8"
+    },
+    {
+      "ts": "16/08/2026, 08:12:55",
+      "action": "Vote cast",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9",
+      "txRef": "TXMSV79O9R23QO"
+    },
+    {
+      "ts": "16/08/2026, 08:12:39",
+      "action": "Vote cast",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9",
+      "txRef": "TXMSV79BWMAK9Z"
+    },
+    {
+      "ts": "16/08/2026, 08:12:19",
+      "action": "Started election",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:12:05",
+      "action": "Added party cng",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:11:58",
+      "action": "Added party aap",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:11:48",
+      "action": "Created election \"mla\"",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "16/08/2026, 08:11:21",
+      "action": "Added party cng",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-XND241"
+    },
+    {
+      "ts": "16/08/2026, 08:11:13",
+      "action": "Added party aap",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-XND241"
+    },
+    {
+      "ts": "16/08/2026, 08:11:00",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 12:54:09",
+      "action": "Registered voter 126",
+      "admin": "admin-01 (Super Admin)",
+      "name": "Aditya"
+    },
+    {
+      "ts": "15/08/2026, 12:53:50",
+      "action": "Registered voter 125",
+      "admin": "admin-01 (Super Admin)",
+      "name": "Aman"
+    },
+    {
+      "ts": "15/08/2026, 12:53:26",
+      "action": "Registered voter 124",
+      "admin": "admin-01 (Super Admin)",
+      "name": "Anaanya"
+    },
+    {
+      "ts": "15/08/2026, 12:53:01",
+      "action": "Registered voter 123",
+      "admin": "admin-01 (Super Admin)",
+      "name": "akshay"
+    },
+    {
+      "ts": "15/08/2026, 12:52:01",
+      "action": "Created election \"Panchyat\"",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 12:51:37",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 11:56:16",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 11:53:56",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 11:48:56",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 10:48:40",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 10:47:04",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 10:46:42",
+      "action": "Reset voters/parties (finished elections kept as history)",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:46:42",
+      "action": "Created new election \"panchyat\" (continuing after reset)",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-EZEYNF"
+    },
+    {
+      "ts": "15/08/2026, 10:46:30",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 10:46:08",
+      "action": "Stopped election",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:46:03",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 10:45:49",
+      "action": "Vote cast",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-BLWJED",
+      "txRef": "TXMSTXAGBQJNSA"
+    },
+    {
+      "ts": "15/08/2026, 10:45:25",
+      "action": "Vote cast",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-BLWJED",
+      "txRef": "TXMSTX9XY53744"
+    },
+    {
+      "ts": "15/08/2026, 10:45:12",
+      "action": "Started election",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:45:02",
+      "action": "Added party cjp",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:44:56",
+      "action": "Added party bjp",
+      "admin": "admin-01 (Super Admin)",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:44:46",
+      "action": "Registered voter 124",
+      "admin": "admin-01 (Super Admin)",
+      "name": "wferfer"
+    },
+    {
+      "ts": "15/08/2026, 10:44:15",
+      "action": "Registered voter 123",
+      "admin": "admin-01 (Super Admin)",
+      "name": "dcasdvwadf"
+    },
+    {
+      "ts": "15/08/2026, 10:43:58",
+      "action": "Created election \"panchyat\"",
+      "admin": "admin-01 (Super Admin)"
+    },
+    {
+      "ts": "15/08/2026, 10:43:24",
+      "action": "Admin signed in to Control Room",
+      "admin": "admin-01 (Super Admin)"
+    }
+  ],
+  "securityLog": [
+    {
+      "ts": "16/08/2026, 08:16:04",
+      "event": "Admin logout"
+    },
+    {
+      "ts": "16/08/2026, 08:14:46",
+      "event": "System reset performed",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:14:21",
+      "event": "Election stop",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:14:06",
+      "event": "Admin login"
+    },
+    {
+      "ts": "16/08/2026, 08:13:51",
+      "event": "Duplicate vote attempt blocked",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "123",
+      "attempt": 1
+    },
+    {
+      "ts": "16/08/2026, 08:13:51",
+      "event": "Fingerprint verification success",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "123",
+      "finger": "R. Middle"
+    },
+    {
+      "ts": "16/08/2026, 08:13:42",
+      "event": "Vote submitted",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "125",
+      "txRef": "TXMSV7AORQEE8J"
+    },
+    {
+      "ts": "16/08/2026, 08:13:37",
+      "event": "Fingerprint verification success",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "125",
+      "finger": "L. Index"
+    },
+    {
+      "ts": "16/08/2026, 08:13:27",
+      "event": "Unknown voter ID attempt",
+      "evmId": "EVM-01",
+      "enteredId": "127"
+    },
+    {
+      "ts": "16/08/2026, 08:13:10",
+      "event": "Vote submitted",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "126",
+      "txRef": "TXMSV79ZR42BE8"
+    },
+    {
+      "ts": "16/08/2026, 08:13:06",
+      "event": "Fingerprint verification success",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "126",
+      "finger": "R. Little"
+    },
+    {
+      "ts": "16/08/2026, 08:12:55",
+      "event": "Vote submitted",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "124",
+      "txRef": "TXMSV79O9R23QO"
+    },
+    {
+      "ts": "16/08/2026, 08:12:49",
+      "event": "Fingerprint verification success",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "124",
+      "finger": "R. Middle"
+    },
+    {
+      "ts": "16/08/2026, 08:12:39",
+      "event": "Vote submitted",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "123",
+      "txRef": "TXMSV79BWMAK9Z"
+    },
+    {
+      "ts": "16/08/2026, 08:12:31",
+      "event": "Fingerprint verification success",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "123",
+      "finger": "L. Thumb"
+    },
+    {
+      "ts": "16/08/2026, 08:12:19",
+      "event": "Election start",
+      "electionId": "EL-3JPHG9"
+    },
+    {
+      "ts": "16/08/2026, 08:11:00",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 12:51:37",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 11:56:16",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 11:53:56",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 11:48:56",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 10:48:40",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 10:47:04",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 10:46:42",
+      "event": "System reset performed",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:46:30",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 10:46:08",
+      "event": "Election stop",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:46:03",
+      "event": "Admin login"
+    },
+    {
+      "ts": "15/08/2026, 10:45:49",
+      "event": "Vote submitted",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "124",
+      "txRef": "TXMSTXAGBQJNSA"
+    },
+    {
+      "ts": "15/08/2026, 10:45:46",
+      "event": "Fingerprint verification success",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "124",
+      "finger": "L. Index"
+    },
+    {
+      "ts": "15/08/2026, 10:45:25",
+      "event": "Vote submitted",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "123",
+      "txRef": "TXMSTX9XY53744"
+    },
+    {
+      "ts": "15/08/2026, 10:45:22",
+      "event": "Fingerprint verification success",
+      "evmId": "EVM-01",
+      "hiddenVoterId": "123",
+      "finger": "L. Index"
+    },
+    {
+      "ts": "15/08/2026, 10:45:12",
+      "event": "Election start",
+      "electionId": "EL-BLWJED"
+    },
+    {
+      "ts": "15/08/2026, 10:43:24",
+      "event": "Admin login"
+    }
+  ]
+}
